@@ -2,6 +2,7 @@ import React from 'react';
 import anwar from '../../assets/anwar.jpg';
 import Social from '../../Shared/Social';
 import Typical from 'react-typical';
+import cv from '../../assets/cv/Resume-Anwar Hosen.pdf';
 
 const InfoPart = () => {
   return (
@@ -40,9 +41,13 @@ const InfoPart = () => {
                 framework. As a backend good at Node.js and Express.js. Also
                 have good knowledge at Mongodb database
               </p>
-              <button class="text-gray-900 font-bold bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-lime-300 dark:focus:ring-lime-800 rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 uppercase">
+              <a
+                href={cv}
+                class="text-gray-900 font-bold bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-lime-300 dark:focus:ring-lime-800 rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 uppercase"
+                download
+              >
                 Download Resume
-              </button>
+              </a>
             </div>
           </div>
         </div>
