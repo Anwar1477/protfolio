@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/NNPYD2x/html.png",
+    "name": "HTML"
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/yhZ2Ps8/css.png",
+    "name": "CSS"
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/JQR5nHg/js.png",
+    "name": "javaScript"
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/VTpN24K/bootstrap.jpg",
+    "name": "Bootstrap"
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/xsygPBD/tailwind.png",
+    "name": "Tailwind CSS"
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/0Jn10J8/react.jpg",
+    "name": "ReactJs"
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/6PqzH8B/nodejs.png",
+    "name": "NodeJs"
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/ThBL5Nv/express.png",
+    "name": "ExpressJs"
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co/X4hRDtZ/mongodb.png",
+    "name": "MongoDB"
+  },
+  {
+    "id": 10,
+    "img": "https://i.ibb.co/8dH1Tbv/reactrouter.png",
+    "name": "React Router"
+  }
+]

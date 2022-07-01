@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "62bf02620cdc137062649430",
+    "GPA": "4.25 out of 5",
+    "name": "Secondary School Certificate",
+    "school": "Kalir Bazar School and College",
+    "year": "2013"
+  },
+  {
+    "_id": "62bf02620cdc137062649430",
+    "GPA": "4.25 out of 5",
+    "name": "Higher Secondary School Certificate",
+    "school": "Agricultural University College",
+    "year": "2015"
+  },
+  {
+    "_id": "62bf02620cdc137062649430",
+    "GPA": "3.83 out of 4",
+    "name": "B.Sc. in Computer Science & Engineering (CSE)",
+    "school": "Shanto-Mariam University of Creative Technology",
+    "year": "2017-2021"
+  }
+]
